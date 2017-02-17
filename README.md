@@ -1,5 +1,5 @@
 ## HONINA - infobot demo
-Honina is an infoserver with NLP and TTS capabilities (like Alexa).
+Honina is an infoserver demo with NLP and TTS capabilities (like Alexa).
 
 ### Run as follows
 Just run the honina1.py file with python honina1.py in the shell prompt. Right after Honina will welcome you. After that you can say hi and hit enter or ask her for the weather, room .. etc. 
