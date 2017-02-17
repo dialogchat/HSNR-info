@@ -1,14 +1,25 @@
-## HONINA - the infobot
+## HONINA - infobot demo
 Honina is an infoserver with NLP and TTS capabilities (like Alexa).
+
+### RUN
+Just run the honina1.py file with python honina1.py in the shell prompt
+
+Honina will welcome you. After that you can say hi and hit enter
+
+or ask her for the weather, room .. etc. 
+
+language support: German
+
+intents: Wetter, Raumsuche
 
 ### Dependencies
 Install the following packages.
 
-api.ai python api:
+api.ai python api (NLP):
 ```
 pip install apiai
 ```
-text to speech (tts):
+google text to speech (tts):
 ```
 sudo pip install gTTS
 ```
@@ -16,7 +27,7 @@ lightweight mp3 player:
 ```
 sudo apt-get install mpg321
 ```
-JSON files:
+JSON client:
 ```
 pip install simplejson
 ```
