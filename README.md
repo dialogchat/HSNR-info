@@ -2,7 +2,7 @@
 Honina is an infobot demo with NLP and TTS capabilities (like Alexa).
 
 ### Run and Usage
-Just run the ```honina1.py``` file with ```python honina1.py``` in the shell prompt. Right after Honina will welcome you. After that you can say hi via command shell or ask her for the weather, room .. etc. 
+Just run the **honina.py** file with ```python honina.py``` in the shell prompt. Right after Honina will welcome you. After that you can say hi via command shell or ask her for the weather, room .. etc. 
 
 language support: **German**
 
