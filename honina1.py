@@ -33,7 +33,7 @@ def hibye(utterance):
     tts.save(utterance[0:2]+".mp3")                #save file to disk
     #os.startfile(utterance[0]+".mp3")             #win play file from disk
     os.system("mpg321 -q "+utterance[0:2]+".mp3")  #linux play file from disk
-    os.remove(utterance[0:2]+".mp3")
+    os.remove(utterance[0:2]+".mp3")               #opt. mp3 removal
 	
 
 def qaquery(user_input, ai):
@@ -46,12 +46,12 @@ def qaquery(user_input, ai):
     request.query = user_input  #json query
     response = json.loads(request.getresponse().read().decode('utf8')) #json to dict
     utterance = response['result']['fulfillment']['speech'] #answer
-    print ("Honina: "+utterance) 				  #print answer
+    print ("Honina: "+utterance) 	          #print answer
     tts = gTTS(text = utterance, lang='de')       #server tts query
     tts.save(utterance[0:2]+".mp3")               #save file to disk
     #os.startfile(utterance[0]+".mp3")            #win play file from disk
     os.system("mpg321 -q "+utterance[0:2]+".mp3") #linux play file from disk
-    os.remove(utterance[0:2]+".mp3")
+    os.remove(utterance[0:2]+".mp3")              #opt. mp3 removal
     
       
 def main():
