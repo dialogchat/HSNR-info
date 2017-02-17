@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 from gtts import gTTS
-from tempfile import TemporaryFile
-from pygame import mixer
 import os, time
 import os.path
 import sys
