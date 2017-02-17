@@ -1,3 +1,12 @@
+'''
+Honina is an infobot. Use command prompt to interact with the bot.
+Language is German. Send queries about weather, find persons.. etc.
+
+Project: HSNR-info
+Category: NLP, TTS
+Author: Roboball 
+Date: 01-2017
+'''
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
