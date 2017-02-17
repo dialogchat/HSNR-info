@@ -23,4 +23,4 @@ pip install simplejson
 
 ### Links
 * [psdk ](https://github.com/api-ai/api-ai-python) - api.ai python sdk
-* [NLPmodel ](https://console.api.ai/) - api.ai edit NLP model
+* [apiai_model ](https://console.api.ai/) - api.ai edit NLP model
