@@ -1,7 +1,7 @@
-# HONINA - the infobot
+## HONINA - the infobot
 Honina is an infoserver with NLP and TTS capabilities (like Alexa).
 
-## Dependencies
+### Dependencies
 Install the following packages.
 
 api.ai python api:
@@ -21,6 +21,6 @@ JSON files:
 pip install simplejson
 ```
 
-#Links
+### Links
 * [psdk ](https://github.com/api-ai/api-ai-python) - api.ai python sdk
 * [NLPmodel ](https://console.api.ai/) - api.ai edit NLP model
