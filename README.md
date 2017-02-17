@@ -1,4 +1,4 @@
-## HONINA - infobot demo
+# HONINA - infobot demo
 Honina is an infobot demo with NLP and TTS capabilities (like Alexa).
 
 ### Run and Usage
