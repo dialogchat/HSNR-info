@@ -1,0 +1,86 @@
+{
+  "userSays": [
+    {
+      "id": "68493f0b-859c-4a34-8f5c-cd8da25da57d",
+      "data": [
+        {
+          "text": "Dalitz"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88550fed-53ef-49a6-a4fa-b9a9c5aeff8f",
+      "data": [
+        {
+          "text": "Hirsch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6c7f7ce0-f3f9-4b6e-95bf-93e1de57b26e",
+      "data": [
+        {
+          "text": "Mustererkennung"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b21621c8-3597-4b76-b5a5-b9267290f936",
+      "data": [
+        {
+          "text": "Wo ist das Ipattern"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35ec2f52-1e93-4327-9e33-b7c6658859c7",
+      "data": [
+        {
+          "text": "Ipattern"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69dec090-a84f-43fb-a5fa-854c14b6b974",
+      "data": [
+        {
+          "text": "Wo befindet sich das Ipattern?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "cb4df50f-8627-4089-b8af-9e05757e9be3",
+  "name": "Ipattern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Das Ipattern befindet sich im F Gebaeude im zweiten Obergeschoss."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

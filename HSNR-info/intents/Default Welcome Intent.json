@@ -1,0 +1,36 @@
+{
+  "userSays": [],
+  "id": "be9dd106-4f75-4b13-8f45-323869c9f33d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hallo!",
+            "Guten Tag!",
+            "Ich grüße dich!",
+            "Hi, wie gehts?",
+            "Hi!"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

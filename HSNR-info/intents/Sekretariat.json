@@ -1,0 +1,66 @@
+{
+  "userSays": [
+    {
+      "id": "0edb80e1-f14d-4d07-ac4f-6636b4bb9700",
+      "data": [
+        {
+          "text": "fb03"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5680d1c-79d5-43f3-90ee-a347c83ff06e",
+      "data": [
+        {
+          "text": "verwaltung"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "352187df-a05e-491a-b25b-d27554a0f09b",
+      "data": [
+        {
+          "text": "maeuser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "822af896-360a-4c9e-86e2-faa41a082331",
+      "data": [
+        {
+          "text": "sekretariat"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8d7b4c5d-2c42-42df-b203-4e765f79c008",
+  "name": "Sekretariat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Das Sekretariat befindet sich im B Gebaeude auf der zweiten Etage."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
