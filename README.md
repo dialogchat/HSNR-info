@@ -1,5 +1,5 @@
 # HONINA - infobot demo
-Honina is an infobot demo with NLP and TTS capabilities (like Alexa).
+Honina is an [infobot demo](https://bot.api.ai/honina) with NLP (TTS) capabilities (like Alexa).
 
 ### Run and Usage
 Just run the **honina.py** file with ```python honina.py``` in the shell prompt. Right after Honina will welcome you. After that you can say hi via command shell or ask her for the weather, room .. etc. 
@@ -29,5 +29,6 @@ pip install simplejson
 ```
 
 ### Links
+* [infobot demo](https://bot.api.ai/honina) -Honina chatbot without TTS
 * [psdk ](https://github.com/api-ai/api-ai-python) - api.ai python sdk
 * [apiai_model ](https://console.api.ai/) - api.ai edit NLP model
