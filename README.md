@@ -29,6 +29,6 @@ pip install simplejson
 ```
 
 ### Links
-* [infobot demo](https://bot.api.ai/honina) -Honina chatbot without TTS
+* [infobot demo](https://bot.api.ai/honina) - Honina chatbot without TTS
 * [psdk ](https://github.com/api-ai/api-ai-python) - api.ai python sdk
 * [apiai_model ](https://console.api.ai/) - api.ai edit NLP model
