@@ -26,10 +26,11 @@ except ImportError:
     import apiai
 
 #insert your client token by api.ai:
-CLIENT_ACCESS_TOKEN = '27af35bde3364e6ea5c2efcd2eef097c'
+CLIENT_ACCESS_TOKEN = '68c5f3aafb344839b5de2c329dbb5ac9'
 
 #CLIENT_ACCESS_TOKEN:
-#client hsnr-info: 27af35bde3364e6ea5c2efcd2eef097c
+#client isa: 68c5f3aafb344839b5de2c329dbb5ac9
+#client honina: 27af35bde3364e6ea5c2efcd2eef097c
 #Developer access token:
 
 def hibye(utterance):
