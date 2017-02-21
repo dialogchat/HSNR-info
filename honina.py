@@ -2,7 +2,7 @@
 Honina is an infobot. Use command prompt to interact with the bot.
 Language is German. Send queries about weather, find persons.. etc.
 
-Project: HSNR-info
+Project: Honina (HSNR-info)
 Category: NLP, TTS
 Author: Roboball 
 Date: 01-2017
