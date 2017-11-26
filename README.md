@@ -1,7 +1,7 @@
 # HONINA - infobot demo
 Honina is an [infobot demo](https://bot.api.ai/honina) with NLP (and TTS) capabilities.
 
-You can ask e.g.: ```Wo ist das Sekretariat?``` It should return a response.
+You can ask e.g.: ```Wo ist das Sekretariat?``` ..and it should return a response.
 
 ### Run and Usage
 Just run the **honina.py** file with ```python honina.py``` in the shell prompt. Right after Honina will welcome you. After that you can say hi via command shell or ask her for the weather, room .. etc. 
